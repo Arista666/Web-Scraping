@@ -1,10 +1,10 @@
 # 🕷️ EasyScraper - Web Scraping Made Easy
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/31b28a64-58bb-4ce5-888e-96b868ccbc93" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/dc6fa62b-5338-4445-98e6-38ba75080a4e" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/3693c71d-49eb-451a-b2d2-183fc5f5636d" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/fab45b41-20d2-4355-af70-a3030cf3b087" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/59fd4c89-99f7-425b-9e8d-2e63a117a647" />
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2fd578e1-4198-406e-9cc6-ea3d3c368f59" />
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/683dc6a0-9f51-4b21-9724-c3d400847f38" />
 
 
 **EasyScraper** is a user-friendly web scraping application with a graphical interface, designed to be used by anyone without coding knowledge.
