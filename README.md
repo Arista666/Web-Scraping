@@ -347,21 +347,7 @@ python easyscraper.py
 ## 📞 Support & Community
 
 ### Getting Help:
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/easyscraper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/easyscraper/discussions)
-- **Email Support**: easyscraper.support@gmail.com
 - **Documentation**: Built-in help and online wiki
-
-### Community:
-- **Discord Server**: [Join our community](https://discord.gg/easyscraper)
-- **Reddit**: r/EasyScraper
-- **Stack Overflow**: Tag questions with `easyscraper`
-
-### Commercial Support:
-- Priority email support
-- Custom feature development
-- Training and consultation
-- Enterprise deployment assistance
 
 ## 📄 License
 
@@ -749,24 +735,8 @@ python easyscraper.py
 - Gunakan commit message yang bermakna
 - Buat feature branch untuk development baru
 
-## 📞 Support & Komunitas
-
 ### Mendapatkan Bantuan:
-- **GitHub Issues**: [Buat issue](https://github.com/yourusername/easyscraper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/easyscraper/discussions)
-- **Email Support**: easyscraper.support@gmail.com
 - **Dokumentasi**: Help bawaan dan wiki online
-
-### Komunitas:
-- **Discord Server**: [Bergabung dengan komunitas kami](https://discord.gg/easyscraper)
-- **Reddit**: r/EasyScraper
-- **Stack Overflow**: Tag pertanyaan dengan `easyscraper`
-
-### Commercial Support:
-- Priority email support
-- Custom feature development
-- Training dan konsultasi
-- Enterprise deployment assistance
 
 ## 📄 Lisensi
 
