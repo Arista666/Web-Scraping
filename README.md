@@ -1,9 +1,9 @@
 # 🕷️ EasyScraper - Web Scraping Made Easy
 
-<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/dc6fa62b-5338-4445-98e6-38ba75080a4e" />
-<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/3693c71d-49eb-451a-b2d2-183fc5f5636d" />
-<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/fab45b41-20d2-4355-af70-a3030cf3b087" />
-<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/59fd4c89-99f7-425b-9e8d-2e63a117a647" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/dc6fa62b-5338-4445-98e6-38ba75080a4e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3693c71d-49eb-451a-b2d2-183fc5f5636d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fab45b41-20d2-4355-af70-a3030cf3b087" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/59fd4c89-99f7-425b-9e8d-2e63a117a647" />
 
 
 
