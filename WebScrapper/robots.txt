@@ -1,0 +1,107 @@
+# Robots.txt for EasyScraper Project
+# This file explains what web crawlers and scrapers should and shouldn't access
+
+# Allow all robots to access everything by default
+User-agent: *
+Allow: /
+
+# Specific rules for well-behaved crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# For EasyScraper users - Guidelines for responsible scraping
+# This serves as an example of what to look for in target websites
+
+# Example of what you might find on websites:
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /api/
+# Disallow: /login/
+# Disallow: /user/
+# Disallow: /temp/
+# Disallow: *.pdf$
+# Disallow: *.doc$
+
+# Common patterns that websites often restrict:
+# Disallow: /cgi-bin/
+# Disallow: /tmp/
+# Disallow: /search?
+# Disallow: /*?print=1
+# Disallow: /*?sid=
+
+# Crawl-delay examples (respect these on target sites):
+# Crawl-delay: 1    # Wait 1 second between requests
+# Crawl-delay: 5    # Wait 5 seconds between requests (more conservative)
+
+# Sitemap location (look for these on target websites):
+# Sitemap: https://example.com/sitemap.xml
+# Sitemap: https://example.com/sitemap_index.xml
+
+# === IMPORTANT NOTES FOR EASYSCRAPER USERS ===
+#
+# 1. ALWAYS check the robots.txt of websites you want to scrape
+#    - Visit: https://example.com/robots.txt
+#    - Look for "Disallow:" directives
+#    - Respect "Crawl-delay:" values
+#
+# 2. Common robots.txt locations to check:
+#    - https://website.com/robots.txt
+#    - https://website.com/robots.txt
+#
+# 3. What to look for:
+#    - User-agent: * (applies to all crawlers)
+#    - Disallow: /path/ (don't access this path)
+#    - Allow: /path/ (explicitly allowed)
+#    - Crawl-delay: X (wait X seconds between requests)
+#
+# 4. Example of respectful scraping:
+#    - If robots.txt says "Crawl-delay: 5", set your delay to 5+ seconds
+#    - If a path is disallowed, don't scrape it
+#    - If uncertain, contact the website owner
+#
+# 5. Legal considerations:
+#    - robots.txt is not legally binding but shows intent
+#    - Violating robots.txt may violate terms of service
+#    - Some countries have laws protecting robots.txt
+#
+# === EXAMPLE ROBOTS.TXT INTERPRETATIONS ===
+#
+# Example 1 - Completely open:
+# User-agent: *
+# Allow: /
+#
+# Example 2 - Block admin areas:
+# User-agent: *
+# Disallow: /admin/
+# Disallow: /private/
+# Allow: /
+#
+# Example 3 - Slow crawling required:
+# User-agent: *
+# Crawl-delay: 10
+# Disallow: /search/
+# Allow: /
+#
+# Example 4 - Specific bot restrictions:
+# User-agent: BadBot
+# Disallow: /
+#
+# User-agent: *
+# Disallow: /private/
+# Crawl-delay: 2
+#
+# === BEST PRACTICES FOR EASYSCRAPER USERS ===
+#
+# 1. Check robots.txt before scraping any new website
+# 2. Set appropriate delays (minimum 1 second, more if specified)
+# 3. Don't scrape disallowed paths
+# 4. Monitor your scraping behavior to ensure you're not overloading servers
+# 5. Consider reaching out to website owners for permission
+# 6. Stop scraping if you receive blocking responses (403, 429, etc.)
+# 7. Use realistic User-Agent strings
+# 8. Respect copyright and terms of service
+#
+# Remember: Being a good citizen of the web benefits everyone!

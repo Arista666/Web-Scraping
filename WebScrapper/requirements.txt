@@ -1,0 +1,26 @@
+# EasyScraper - Python Dependencies
+# Install dengan: pip install -r requirements.txt
+
+# Core web scraping
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+
+# Browser automation (optional, untuk advanced features)
+selenium>=3.141.0
+
+# Data processing dan export
+pandas>=1.3.0
+openpyxl>=3.0.0
+
+# Image processing (untuk handle gambar)
+pillow>=8.0.0
+
+# Utility libraries
+urllib3>=1.26.0
+charset-normalizer>=2.0.0
+
+# Optional: untuk advanced features
+# fake-useragent>=0.1.11  # Random user agents
+# cloudscraper>=1.2.60    # Bypass Cloudflare
+# aiohttp>=3.8.0          # Async HTTP requests
